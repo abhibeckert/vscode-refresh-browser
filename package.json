@@ -3,6 +3,7 @@
 	"displayName": "Refresh Browser (macOS only)",
 	"description": "Refresh your web-browser with ⌘R without switching from Code. Only works on macOS. Supports Chrome and Safari.",
 	"version": "1.1.1",
+	"extensionKind": ["ui"],
 	"author": {
 		"name": "Eugene / Dae",
 		"email": "dae@dae.me"
